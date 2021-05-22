@@ -13,6 +13,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SoftStuApi.Data;
+// using Swashbuckle.AspNetCore.Swagger;
 
 namespace SoftStuApi
 {
@@ -46,9 +47,9 @@ namespace SoftStuApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SoftStuApi v1"));
             }
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SoftStuApi v1"));
 
             app.UseHttpsRedirection();
 
