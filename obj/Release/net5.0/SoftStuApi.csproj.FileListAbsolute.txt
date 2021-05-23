@@ -65,3 +65,13 @@ C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release
 C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\appsettings.json
 C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\SoftStuApi.deps.json
 C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\SoftStuApi.runtimeconfig.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\web.config
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\appsettings.Development.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\appsettings.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\SoftStuApi.deps.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\SoftStuApi.runtimeconfig.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\publish\web.config
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\publish\appsettings.Development.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\publish\appsettings.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\publish\SoftStuApi.deps.json
+C:\Users\DELL_G3\Documents\VScodeFile\soft_stu_assignment\SoftStuApi\bin\Release\net5.0\publish\publish\publish\publish\SoftStuApi.runtimeconfig.json
