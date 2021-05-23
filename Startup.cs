@@ -29,6 +29,10 @@ namespace SoftStuApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(option => option.AddPolicy("SoftStuAPIPolicy", builder => {
+                builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+
+            }));
 
             services.AddDbContext<ApiDbContext>(options =>
                 options.UseSqlite(
@@ -52,6 +56,8 @@ namespace SoftStuApi
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SoftStuApi v1"));
 
             app.UseHttpsRedirection();
+
+            app.UseCors("SoftStuAPIPolicy");
 
             app.UseRouting();
 
